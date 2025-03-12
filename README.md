@@ -56,5 +56,6 @@ We welcome contributions from the community! If you have ideas for new features,
 **Join the Community:**
 
 Connect with us on our community forum to stay up-to-date on the latest developments and collaborate with other Cairo developers.
-[Telegram](https://t.me/+uQKuqWrTlhs5ZWI0)
+[Telegram](https://t.me/+uQKuqWrTlhs5ZWI0).
+
 **Thank you for being part of the Cairo Academy journey!**
