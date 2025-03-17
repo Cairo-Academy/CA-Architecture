@@ -48,6 +48,7 @@ Cairo Academy encompasses the following key areas:
 * **`diagrams/`:** Architectural diagrams and flowcharts.
 * **`documentation/`:** Detailed documentation on the Cairo Academy architecture.
 * **`roadmap.md`:** The planned development roadmap for Cairo Academy.
+* **`mdbook`:** [Website](https://cairo-academy.github.io/ca-mdbook/)
 
 **How to Contribute:**
 
