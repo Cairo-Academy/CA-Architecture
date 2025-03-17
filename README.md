@@ -69,6 +69,12 @@ We are grateful for the contributions of the following individuals who have help
   <br/>
     [![Mayowa's Image](https://avatars.githubusercontent.com/u/91972571?v=4&s=100)](https://github.com/MayowaObisesan)
       </td>
+<td align="center" valign="top">
+        
+* **[Daniel Nwachukwu](https://github.com/Verifieddanny)**
+  <br/>
+    [![Daniel's Image](https://avatars.githubusercontent.com/u/103733496?v=4&s=100)](https://github.com/Verifieddanny)
+      </td>
     </tr>
   </tbody>
 </table>
