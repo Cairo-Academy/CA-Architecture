@@ -50,35 +50,6 @@ Cairo Academy encompasses the following key areas:
 * **`roadmap.md`:** The planned development roadmap for Cairo Academy.
 * **`mdbook`:** [Website](https://cairo-academy.github.io/ca-mdbook/)
 
-## Contributions
-We are grateful for the contributions of the following individuals who have helped improve and expand Cairo Academy.
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        
-* **[Faith M. Roberts](https://github.com/faytey)**
-  <br/>
-    [![Faith's Image](https://avatars.githubusercontent.com/u/40033608?v=4&s=100)](https://github.com/faytey)
-      </td>
-
-<td align="center" valign="top">
-        
-* **[Mayowa Obisesan](https://github.com/MayowaObisesan)**
-  <br/>
-    [![Mayowa's Image](https://avatars.githubusercontent.com/u/91972571?v=4&s=100)](https://github.com/MayowaObisesan)
-      </td>
-<td align="center" valign="top">
-        
-* **[Daniel Nwachukwu](https://github.com/Verifieddanny)**
-  <br/>
-    [![Daniel's Image](https://avatars.githubusercontent.com/u/103733496?v=4&s=100)](https://github.com/Verifieddanny)
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 **How to Contribute:**
 
 We welcome contributions from the community! If you have ideas for new features, templates, or improvements, please submit a pull request or open an issue.
